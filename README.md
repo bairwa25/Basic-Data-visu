@@ -1,6 +1,6 @@
 ## Basic-Data-visu
 
-This is basic methodes for Data Visualization using Python.
+These are basic methodes for Data Visualization using Python.
 
 - Line Plotting
 - Bar Plotting
